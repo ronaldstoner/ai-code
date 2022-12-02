@@ -10,6 +10,7 @@ This repo contains AI generated examples of python code. The code iterates as ad
 | ChatGPT |  "python countdown timer in pygame with font numbers and a background that blinks red for the last 3 seconds" |
 | ChatGPT |  "python countdown timer in pygame with font numbers and a background that blinks red for the last 3 seconds. when the timer hits 0 the window shake and buzz" |
 | ChatGPT |  "python countdown timer in pygame with font numbers and a background that blinks red for the last 3 seconds. when the timer hits 0 the window shake and buzz. as the timer decreases increase the font to perform a zoom effect" |
+| ChatGPT |  "python countdown timer in pygame with font numbers and a background that blinks red for the last 3 seconds. when the timer hits 0 the window shake and buzz. as the timer decreases increase the font to perform a zoom effect. do this and then show a "GAME OVER" screen."
 
 ### 1 - Console Output
 |||
@@ -62,6 +63,6 @@ This repo contains AI generated examples of python code. The code iterates as ad
 |||
 | --- | ----------- |
 | **AI** | **Prompt** |
-| ChatGPT |  "python countdown timer in pygame with font numbers and a background that blinks red for the last 3 seconds. when the timer hits 0 the window shake and buzz. as the timer decreases increase the font to perform a zoom effect. do this 3 times and then show a "GAME OVER" screen." |  
+| ChatGPT |  "python countdown timer in pygame with font numbers and a background that blinks red for the last 3 seconds. when the timer hits 0 the window shake and buzz. as the timer decreases increase the font to perform a zoom effect. do this and then show a "GAME OVER" screen." |  
 
 <img src="https://github.com/ronaldstoner/ai-code/blob/main/countdown/images/7.png?raw=true" width="300">
