@@ -17,7 +17,7 @@ This repo contains AI generated examples of python code. The code iterates as ad
 | **AI** | **Prompt** |
 | ChatGPT |  "python countdown timer" |  
 
-![1 - Console Output](https://github.com/ronaldstoner/ai-code/blob/main/countdown/images/1.png?raw=true | {width=350px})
+<img src="https://github.com/ronaldstoner/ai-code/blob/main/countdown/images/1.png?raw=true" width="300">
 
 ### 2 - GUI Output
 |||
@@ -25,15 +25,14 @@ This repo contains AI generated examples of python code. The code iterates as ad
 | **AI** | **Prompt** |
 | ChatGPT |  "python countdown timer in pygame gui" |  
 
-![2 - PyGame GUI Output](https://github.com/ronaldstoner/ai-code/blob/main/countdown/images/2.png?raw=true | {width=350px})
+<img src="https://github.com/ronaldstoner/ai-code/blob/main/countdown/images/2.png?raw=true" width="300">
 
 ### 3 - Stylized GUI Output
 |||
 | --- | ----------- |
 | **AI** | **Prompt** |
 | ChatGPT |  "python countdown timer in pygame gui with stylized numbers" |  
-
-![3- GUI with stylized text](https://github.com/ronaldstoner/ai-code/blob/main/countdown/images/3.png?raw=true {width=350px})
+<img src="https://github.com/ronaldstoner/ai-code/blob/main/countdown/images/3.png?raw=true" width="300">
 
 ### 4 - Stylized GUI Output w/ Countdown Warning
 |||
@@ -41,7 +40,7 @@ This repo contains AI generated examples of python code. The code iterates as ad
 | **AI** | **Prompt** |
 | ChatGPT |  "python countdown timer in pygame with font numbers and a background that blinks red for the last 3 seconds" |  
 
-![GUI with stylize text and effects](https://github.com/ronaldstoner/ai-code/blob/main/countdown/images/4.png?raw=true {width=350px})
+<img src="https://github.com/ronaldstoner/ai-code/blob/main/countdown/images/4.png?raw=true" width="300">
 
 ### 5- Stylized GUI Output w/ Countdown Warning, Sound, and Effects
 |||
@@ -49,7 +48,7 @@ This repo contains AI generated examples of python code. The code iterates as ad
 | **AI** | **Prompt** |
 | ChatGPT |  "python countdown timer in pygame with font numbers and a background that blinks red for the last 3 seconds. when the timer hits 0 the window shake and buzz" |  
 
-![GUI with stylized text, effects, and sound](https://github.com/ronaldstoner/ai-code/blob/main/countdown/images/5.gif?raw=true {width=350px})
+<img src="https://github.com/ronaldstoner/ai-code/blob/main/countdown/images/5.gif?raw=true" width="300">
 
 ### 6 -  Stylized GUI Output w/ Countdown Warning, Sound, Effects, and 'Zoom'
 |||
@@ -57,4 +56,4 @@ This repo contains AI generated examples of python code. The code iterates as ad
 | **AI** | **Prompt** |
 | ChatGPT |  "python countdown timer in pygame with font numbers and a background that blinks red for the last 3 seconds. when the timer hits 0 the window shake and buzz. as the timer decreases increase the font to perform a zoom effect" |  
 
-![GUI with stylized text, effects, sound, and zoom](https://github.com/ronaldstoner/ai-code/blob/main/countdown/images/6.gif?raw=true {width=350px})
+<img src="https://github.com/ronaldstoner/ai-code/blob/main/countdown/images/6.gif?raw=true" width="300">
