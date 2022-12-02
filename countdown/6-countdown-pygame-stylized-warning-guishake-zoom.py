@@ -1,10 +1,13 @@
+# Prompt:
+# python countdown timer in pygame with font numbers and a background that blinks red for the last 3 seconds. when the timer hits 0 the window shake and buzz. as the timer decreases increase the font to perform a zoom effect
+
 import pygame
 
 # Initialize Pygame
 pygame.init()
 
 # Set up the window
-screen = pygame.display.set_mode((300, 200))
+screen = pygame.display.set_mode((400, 400))
 pygame.display.set_caption("Countdown Timer")
 
 # Human intervention

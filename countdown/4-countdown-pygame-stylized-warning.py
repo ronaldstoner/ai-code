@@ -9,8 +9,8 @@ import sys
 pygame.init()
 
 # Set the window dimensions
-window_width = 640
-window_height = 480
+window_width = 400
+window_height = 400
 window = pygame.display.set_mode((window_width, window_height))
 
 # Set the countdown timer duration in seconds
