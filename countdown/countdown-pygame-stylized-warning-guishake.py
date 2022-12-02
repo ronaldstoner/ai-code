@@ -1,5 +1,6 @@
 # Prompt:
-#
+# python countdown timer in pygame with font numbers and a background that blinks red for the last 3 seconds. when the timer hits 0 the window shake and buzz
+# Note: This example is where human intervention was required to start modifying and fixing code
 
 import pygame
 import time  # Human added
