@@ -38,7 +38,7 @@ Notes: We add stars into the background. They may be hard to see in the picture 
 | **AI** | **Prompt** |
 | ChatGPT |  "python script for a galaga clone in pygame. background is moving stars of random sizes. player is player.png and the enemy is enemy.png. the player can move" |  
 <img src="https://github.com/ronaldstoner/ai-code/blob/main/galaga/3.gif?raw=true" width="300">
-Notes: We've specified player movement as the script started to go a bit off course. As the AI giveth, the AI taketh away. We've lost continious movement, but we can still move a keypress at a time. The enemy now descends down towards the player sprite. 
+Notes: We've specified player movement as the script started to go a bit off course. As the AI giveth, the AI taketh away. We've lost continious movement, but we can still move a keypress at a time. The enemy now descends down towards the player sprite. Our stars are now a different size and everything moves at a different speed. This is due to using the prompt in a new AI session due to timeouts in the prior generation session. Think of this as a new branch off a tree.  
 
 ### 4 - Lives represented by ships
 |||
