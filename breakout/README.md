@@ -36,4 +36,4 @@ Notes: The AI gives us collision detection and we can now reverse the physics of
 | **AI** | **Prompt** |
 | ChatGPT |  "python script for a Breakout style game. the paddle is paddle.png. the ball is ball.png. the paddle can move left and right. when the ball hits the paddle it bounces back. if the ball goes off the bottom of the screen the game ends." |  
 <img src="https://github.com/ronaldstoner/ai-code/blob/main/breakout/3.gif?raw=true" width="300">
-Notes: We've lost fluid movement and have fallen back to indidivual key-presses for each movement. What we have gained is a game end condition when the ball passes the paddle and hits the bottom of the screen. Next iterations would attempt to include a GAME OVER message, but due to limitiations the entire code could not be generated. 
+Notes: We've lost fluid movement, collision detection, and have fallen back to indidivual key-presses for each movement. What we have gained is a game end condition when the ball passes the paddle and hits the bottom of the screen. Next iterations would attempt to include a GAME OVER message, but due to limitiations the entire code could not be generated. 
